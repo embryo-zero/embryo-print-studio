@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Print Studio
+
+**Embryo Print Studio** is Embryo-Zero's fork of [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center">
 
 <picture>
